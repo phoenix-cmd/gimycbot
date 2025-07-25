@@ -10,7 +10,7 @@ from telegram.ext import (
 from enkanetwork import EnkaNetworkAPI
 from enkacard.encbanner import ENC
 # === CONFIG ===
-BOT_TOKEN = "7436385410:AAFtdUT_Ewmg4YHnB7yrT174ZMTRCpy7xH8"
+BOT_TOKEN = ""
 user_uid_map = {}
 user_cache = {}
 user_template_settings = {}  # ✅ NEW
