@@ -1,0 +1,117 @@
+{
+    "200301": {
+        "iconName": "UI_AvatarIcon_QinCostumeSea",
+        "sideIconName": "UI_AvatarIcon_Side_QinCostumeSea",
+        "nameTextMapHash": 1504245738
+    },
+    "201401": {
+        "iconName": "UI_AvatarIcon_BarbaraCostumeSummertime",
+        "sideIconName": "UI_AvatarIcon_Side_BarbaraCostumeSummertime",
+        "nameTextMapHash": 4121525482
+    },
+    "202701": {
+        "iconName": "UI_AvatarIcon_NingguangCostumeFloral",
+        "sideIconName": "UI_AvatarIcon_Side_NingguangCostumeFloral",
+        "nameTextMapHash": 2572106930
+    },
+    "204201": {
+        "iconName": "UI_AvatarIcon_KeqingCostumeFeather",
+        "sideIconName": "UI_AvatarIcon_Side_KeqingCostumeFeather",
+        "nameTextMapHash": 1613857666
+    },
+    "200302": {
+        "iconName": "UI_AvatarIcon_QinCostumeWic",
+        "sideIconName": "UI_AvatarIcon_Side_QinCostumeWic",
+        "nameTextMapHash": 2691230306
+    },
+    "202101": {
+        "iconName": "UI_AvatarIcon_AmborCostumeWic",
+        "sideIconName": "UI_AvatarIcon_Side_AmborCostumeWic",
+        "nameTextMapHash": 4237698530
+    },
+    "204101": {
+        "iconName": "UI_AvatarIcon_MonaCostumeWic",
+        "sideIconName": "UI_AvatarIcon_Side_MonaCostumeWic",
+        "nameTextMapHash": 1860400666
+    },
+    "204501": {
+        "iconName": "UI_AvatarIcon_RosariaCostumeWic",
+        "sideIconName": "UI_AvatarIcon_Side_RosariaCostumeWic",
+        "nameTextMapHash": 2412226586
+    },
+    "201601": {
+        "iconName": "UI_AvatarIcon_DilucCostumeFlamme",
+        "sideIconName": "UI_AvatarIcon_Side_DilucCostumeFlamme",
+        "nameTextMapHash": 1332852170
+    },
+    "203101": {
+        "iconName": "UI_AvatarIcon_FischlCostumeHighness",
+        "sideIconName": "UI_AvatarIcon_Side_FischlCostumeHighness",
+        "nameTextMapHash": 3162794298
+    },
+    "200201": {
+        "iconName": "UI_AvatarIcon_AyakaCostumeFruhling",
+        "sideIconName": "UI_AvatarIcon_Side_AyakaCostumeFruhling",
+        "nameTextMapHash": 2768521498
+    },
+    "200601": {
+        "iconName": "UI_AvatarIcon_LisaCostumeStudentin",
+        "sideIconName": "UI_AvatarIcon_Side_LisaCostumeStudentin",
+        "nameTextMapHash": 2255412906
+    },
+    "202901": {
+        "iconName": "UI_AvatarIcon_KleeCostumeWitch",
+        "sideIconName": "UI_AvatarIcon_Side_KleeCostumeWitch",
+        "nameTextMapHash": 2343491290
+    },
+    "201501": {
+        "iconName": "UI_AvatarIcon_KaeyaCostumeDancer",
+        "sideIconName": "UI_AvatarIcon_Side_KaeyaCostumeDancer",
+        "nameTextMapHash": 177626138
+    },
+    "206301": {
+        "iconName": "UI_AvatarIcon_ShenheCostumeDai",
+        "sideIconName": "UI_AvatarIcon_Side_ShenheCostumeDai",
+        "nameTextMapHash": 945735386
+    },
+    "203701": {
+        "iconName": "UI_AvatarIcon_GanyuCostumeYu",
+        "sideIconName": "UI_AvatarIcon_Side_GanyuCostumeYu",
+        "nameTextMapHash": 1442607890
+    },
+    "202501": {
+        "iconName": "UI_AvatarIcon_XingqiuCostumeBamboo",
+        "sideIconName": "UI_AvatarIcon_Side_XingqiuCostumeBamboo",
+        "nameTextMapHash": 1935444386
+    },
+    "207001": {
+        "iconName": "UI_AvatarIcon_NilouCostumeFairy",
+        "sideIconName": "UI_AvatarIcon_Side_NilouCostumeFairy",
+        "nameTextMapHash": 1436816482
+    },
+    "206101": {
+        "iconName": "UI_AvatarIcon_MomokaCostumeErrantry",
+        "sideIconName": "UI_AvatarIcon_Side_MomokaCostumeErrantry",
+        "nameTextMapHash": 443620306
+    },
+    "204601": {
+        "iconName": "UI_AvatarIcon_HutaoCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_HutaoCostumeWinter",
+        "nameTextMapHash": 4049779162
+    },
+    "202301": {
+        "iconName": "UI_AvatarIcon_XianglingCostumeWinter",
+        "sideIconName": "UI_AvatarIcon_Side_XianglingCostumeWinter",
+        "nameTextMapHash": 3584800114
+    },
+    "206001": {
+        "iconName": "UI_AvatarIcon_YelanCostumeSummer",
+        "sideIconName": "UI_AvatarIcon_Side_YelanCostumeSummer",
+        "nameTextMapHash": 2911925882
+    },
+    "203201": {
+        "iconName": "UI_AvatarIcon_BennettCostumeSummer",
+        "sideIconName": "UI_AvatarIcon_Side_BennettCostumeSummer",
+        "nameTextMapHash": 940723026
+    }
+}
